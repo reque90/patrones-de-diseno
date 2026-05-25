@@ -1,1 +1,0 @@
-# patrones-de-dise-o
