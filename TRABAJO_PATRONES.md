@@ -3,7 +3,7 @@
 ## 1) Objetivo
 
 ### ¿Qué son los patrones de diseño?
-Los **patrones de diseño** son soluciones reutilizables a problemas frecuentes que aparecen al diseñar software orientado a objetos. No son código cerrado ni librerías, sino **plantillas de solución** que se adaptan al contexto.
+Los patrones de diseño son soluciones reutilizables a problemas frecuentes que aparecen al diseñar software orientado a objetos. No son código cerrado ni librerías, sino **plantillas de solución** que se adaptan al contexto.
 
 ### ¿Cuándo se usan?
 Se usan cuando en el diseño aparecen problemas repetitivos, por ejemplo:
